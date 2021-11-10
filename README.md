@@ -1,8 +1,10 @@
 # Biomedical-Data-preprocessing
 ## Objective
-The goal of this analysis is to show how to preprocess a biomedical data. Before perfoming machine learning on dataset it usually needs to be processed in a way that it will be suitable for downtream analysis.
+The goal of this analysis is to show how to preprocess a biomedical data. Before perfoming machine learning. Dataset usually requires preprocessing, so that it will be suitable for downtream analysis.
 ## About data
 The dataset ia a real medical dataset downloaded from Machine Learning repository (https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
+
+### Data set features
 
 - age: age in years
 
